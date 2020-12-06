@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+include<iostream>
+using namespace std;
+  
+int main(int argc, int argv[]){
+cout << "hello world";
+return 0;
+}
